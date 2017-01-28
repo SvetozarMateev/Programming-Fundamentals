@@ -1,2 +1,2 @@
 # Programming-Fundamentals
-:D :P
+:P
