@@ -1,2 +1,2 @@
 # Programming-Fundamentals
-:P
+Exercises from my Programming-Fundamentals course in SoftUni
